@@ -1,11 +1,11 @@
-# Hoodies E-commerce Application
+pwd# Hoodies E-commerce Application
 
 This is an e-commerce application for selling hoodies built with Spring Boot.
 
 ## Running Locally
 
 ### Prerequisites
-- Java 21
+- Java 17
 - Maven
 - Docker and Docker Compose
 

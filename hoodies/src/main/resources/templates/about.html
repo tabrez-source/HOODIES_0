@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+      xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+      xmlns:sec="http://www.thymeleaf.org/thymeleaf-extras-springsecurity6"
+      layout:decorate="~{layout}">
+
+<head>
+    <title>About Us</title>
+    <!-- Include Bootstrap CSS if not already included in the layout -->
+    <link th:href="@{/css/bootstrap.min.css}" rel="stylesheet">
+    <style>
+        /* Custom styles for team member cards */
+        .team-card {
+            transition: transform 0.2s;
+        }
+        .team-card:hover {
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+
+<body>
+    <div layout:fragment="content">
+        <!-- About Us Section -->
+        <div class="container my-5">
+            <h1 class="text-center mb-4">About Us</h1>
+            <p class="lead text-center">
+                Welcome to the Hoodies Store! We are passionate about providing the best quality hoodies for all seasons.
+                Our mission is to blend comfort with style, ensuring our customers always look and feel great.
+            </p>
+        </div>
+
+        <!-- Our Team Section -->
+        <div class="container my-5">
+            <h2 class="text-center mb-4">Meet Our Team</h2>
+            <div class="row row-cols-1 row-cols-md-3 g-4">
+                <!-- Team Member 1 -->
+                <div class="col">
+                    <div class="card team-card h-100 text-center">
+                        <img th:src="@{/images/member1.jpg}" class="card-img-top rounded-circle mx-auto mt-3" alt="Member 1" style="width: 150px; height: 150px; object-fit: cover;">
+                        <div class="card-body">
+                            <h5 class="card-title">Waseem Raja Shaik</h5>
+                            <p class="card-text">Developer</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- Team Member 2 -->
+                <div class="col">
+                    <div class="card team-card h-100 text-center">
+                        <img th:src="@{/images/member2.jpg}" class="card-img-top rounded-circle mx-auto mt-3" alt="Member 2" style="width: 150px; height: 150px; object-fit: cover;">
+                        <div class="card-body">
+                            <h5 class="card-title">Gaurav</h5>
+                            <p class="card-text">Developer</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- Team Member 3 -->
+                <div class="col">
+                    <div class="card team-card h-100 text-center">
+                        <img th:src="@{/images/member3-zohiar.jpg}" class="card-img-top rounded-circle mx-auto mt-3" alt="Member 3" style="width: 150px; height: 150px; object-fit: cover;">
+                        <div class="card-body">
+                            <h5 class="card-title">Zohair</h5>
+                            <p class="card-text">Developer</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- Team Member 4 -->
+                <div class="col">
+                    <div class="card team-card h-100 text-center">
+                        <img th:src="@{/images/member4.jpg}" class="card-img-top rounded-circle mx-auto mt-3" alt="Member 3" style="width: 150px; height: 150px; object-fit: cover;">
+                        <div class="card-body">
+                            <h5 class="card-title">Tabrez</h5>
+                            <p class="card-text">Developer</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS Bundle with Popper -->
+    <script th:src="@{/js/bootstrap.bundle.min.js}"></script>
+</body>
+
+</html>

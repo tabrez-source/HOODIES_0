@@ -1,0 +1,702 @@
+[
+  {
+    "name": "Classic Hoodie",
+    "description": "A comfortable and stylish classic hoodie.",
+    "price": 49.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file1.jpg",
+    "stock": 100
+  },
+  {
+    "name": "Zip-Up Hoodie",
+    "description": "A versatile zip-up hoodie for all seasons.",
+    "price": 59.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file2.jpg",
+    "stock": 80
+  },
+  {
+    "name": "Pullover Hoodie",
+    "description": "A cozy pullover hoodie with a front pocket.",
+    "price": 54.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file3.jpg",
+    "stock": 120
+  },
+  {
+    "name": "Sporty Hoodie",
+    "description": "Ideal for workouts and outdoor activities.",
+    "price": 64.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file4.jpg",
+    "stock": 75
+  },
+  {
+    "name": "Vintage Hoodie",
+    "description": "A retro-style hoodie with a vintage print.",
+    "price": 69.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file5.jpg",
+    "stock": 50
+  },
+  {
+    "name": "Graphic Hoodie",
+    "description": "Featuring unique graphics by local artists.",
+    "price": 59.49,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file6.jpg",
+    "stock": 90
+  },
+  {
+    "name": "Eco-Friendly Hoodie",
+    "description": "Made from sustainable materials.",
+    "price": 74.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file7.jpg",
+    "stock": 60
+  },
+  {
+    "name": "Lightweight Hoodie",
+    "description": "Perfect for layering in mild weather.",
+    "price": 44.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file8.jpg",
+    "stock": 110
+  },
+  {
+    "name": "Heavy-Duty Hoodie",
+    "description": "Extra warmth for colder climates.",
+    "price": 79.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file9.jpg",
+    "stock": 40
+  },
+  {
+    "name": "Sleeveless Hoodie",
+    "description": "A stylish sleeveless design for gym enthusiasts.",
+    "price": 39.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file10.jpg",
+    "stock": 85
+  },
+  {
+    "name": "Tie-Dye Hoodie",
+    "description": "Vibrant tie-dye patterns for a unique look.",
+    "price": 59.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file11.jpg",
+    "stock": 70
+  },
+  {
+    "name": "Camouflage Hoodie",
+    "description": "Blend in with this trendy camo design.",
+    "price": 54.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file12.jpg",
+    "stock": 95
+  },
+  {
+    "name": "Designer Hoodie",
+    "description": "High-end hoodie from renowned designers.",
+    "price": 149.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file13.jpg",
+    "stock": 30
+  },
+  {
+    "name": "Printed Hoodie",
+    "description": "Customize with your favorite prints.",
+    "price": 69.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file14.jpg",
+    "stock": 65
+  },
+  {
+    "name": "Embroidered Hoodie",
+    "description": "Elegant embroidery adds a touch of class.",
+    "price": 84.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file15.jpg",
+    "stock": 55
+  },
+  {
+    "name": "Reversible Hoodie",
+    "description": "Two styles in one with this reversible design.",
+    "price": 89.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file16.jpg",
+    "stock": 45
+  },
+  {
+    "name": "Fleece Hoodie",
+    "description": "Soft fleece lining for extra comfort.",
+    "price": 69.49,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file17.jpg",
+    "stock": 100
+  },
+  {
+    "name": "3D Printed Hoodie",
+    "description": "Eye-catching 3D designs that stand out.",
+    "price": 74.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file18.jpg",
+    "stock": 60
+  },
+  {
+    "name": "Mesh Hoodie",
+    "description": "Breathable mesh fabric for active wear.",
+    "price": 49.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file19.jpg",
+    "stock": 80
+  },
+  {
+    "name": "Cropped Hoodie",
+    "description": "Trendy cropped style for a modern look.",
+    "price": 59.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file20.jpg",
+    "stock": 75
+  },
+  {
+    "name": "Longline Hoodie",
+    "description": "Extended length for added style.",
+    "price": 64.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file21.jpg",
+    "stock": 70
+  },
+  {
+    "name": "Striped Hoodie",
+    "description": "Classic stripes never go out of fashion.",
+    "price": 54.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file22.jpg",
+    "stock": 85
+  },
+  {
+    "name": "Patchwork Hoodie",
+    "description": "Unique patchwork design for a bold statement.",
+    "price": 74.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file23.jpg",
+    "stock": 50
+  },
+  {
+    "name": "Leather Hoodie",
+    "description": "A luxurious hoodie with leather accents.",
+    "price": 199.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file24.jpg",
+    "stock": 25
+  },
+  {
+    "name": "Neon Hoodie",
+    "description": "Stand out with vibrant neon colors.",
+    "price": 59.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file25.jpg",
+    "stock": 65
+  },
+  {
+    "name": "Animal Print Hoodie",
+    "description": "Wild animal prints for the adventurous.",
+    "price": 69.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file26.jpg",
+    "stock": 55
+  },
+  {
+    "name": "Oversized Hoodie",
+    "description": "Comfortable oversized fit for relaxed days.",
+    "price": 49.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file27.jpg",
+    "stock": 95
+  },
+  {
+    "name": "Pocket Hoodie",
+    "description": "Extra pockets for convenience.",
+    "price": 64.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file28.jpg",
+    "stock": 70
+  },
+  {
+    "name": "Glow-in-the-Dark Hoodie",
+    "description": "Glows in the dark for nighttime visibility.",
+    "price": 74.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file29.jpg",
+    "stock": 60
+  },
+  {
+    "name": "Hooded Sweatshirt",
+    "description": "Classic sweatshirt with a hood.",
+    "price": 44.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file30.jpg",
+    "stock": 100
+  },
+  {
+    "name": "Denim Hoodie",
+    "description": "A stylish blend of denim and comfort.",
+    "price": 89.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file31.jpg",
+    "stock": 40
+  },
+  {
+    "name": "Asymmetric Hoodie",
+    "description": "Unique asymmetrical design for a modern touch.",
+    "price": 79.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file32.jpg",
+    "stock": 50
+  },
+  {
+    "name": "Hoodie Dress",
+    "description": "A fashionable hoodie that doubles as a dress.",
+    "price": 69.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file33.jpg",
+    "stock": 55
+  },
+  {
+    "name": "Thermal Hoodie",
+    "description": "Keeps you warm with thermal insulation.",
+    "price": 84.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file34.jpg",
+    "stock": 65
+  },
+  {
+    "name": "Waterproof Hoodie",
+    "description": "Stay dry with this waterproof design.",
+    "price": 94.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file35.jpg",
+    "stock": 45
+  },
+  {
+    "name": "Hoodie with Earphones",
+    "description": "Built-in earphones for music on the go.",
+    "price": 89.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file36.jpg",
+    "stock": 70
+  },
+  {
+    "name": "Convertible Hoodie",
+    "description": "Transforms into a backpack for convenience.",
+    "price": 99.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file37.jpg",
+    "stock": 35
+  },
+  {
+    "name": "Knit Hoodie",
+    "description": "Cozy knit material for a snug fit.",
+    "price": 74.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file38.jpg",
+    "stock": 60
+  },
+  {
+    "name": "Varsity Hoodie",
+    "description": "Sporty style with varsity lettering.",
+    "price": 59.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file39.jpg",
+    "stock": 80
+  },
+  {
+    "name": "Hoodie with Zipper Pockets",
+    "description": "Secure zipper pockets for your essentials.",
+    "price": 64.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file40.jpg",
+    "stock": 85
+  },
+  {
+    "name": "Printed Sleeve Hoodie",
+    "description": "Unique prints on the sleeves.",
+    "price": 69.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file41.jpg",
+    "stock": 75
+  },
+  {
+    "name": "Side-Zip Hoodie",
+    "description": "Side zippers for adjustable fit.",
+    "price": 79.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file42.jpg",
+    "stock": 55
+  },
+  {
+    "name": "Hoodie with Mask",
+    "description": "Built-in face mask for added protection.",
+    "price": 89.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file43.jpg",
+    "stock": 50
+  },
+  {
+    "name": "Lace-Up Hoodie",
+    "description": "Fashionable lace-up design on the front.",
+    "price": 59.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file44.jpg",
+    "stock": 80
+  },
+  {
+    "name": "Hoodie with Thumbholes",
+    "description": "Thumbholes in cuffs for extra warmth.",
+    "price": 54.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file45.jpg",
+    "stock": 90
+  },
+  {
+    "name": "Hoodie with Fur Lining",
+    "description": "Luxurious fur lining for ultimate comfort.",
+    "price": 99.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file46.jpg",
+    "stock": 40
+  },
+  {
+    "name": "Hoodie with Graphics",
+    "description": "Bold graphics to express your style.",
+    "price": 69.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file47.jpg",
+    "stock": 65
+  },
+  {
+    "name": "Quilted Hoodie",
+    "description": "Quilted pattern for a unique look.",
+    "price": 74.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file48.jpg",
+    "stock": 60
+  },
+  {
+    "name": "Hoodie with Chain Detail",
+    "description": "Edgy chain details add character.",
+    "price": 84.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file49.jpg",
+    "stock": 55
+  },
+  {
+    "name": "Split Color Hoodie",
+    "description": "Dual-tone design for a modern vibe.",
+    "price": 59.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file50.jpg",
+    "stock": 75
+  },
+  {
+    "name": "Hoodie with Elbow Patches",
+    "description": "Stylish elbow patches for added flair.",
+    "price": 54.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file51.jpg",
+    "stock": 85
+  },
+  {
+    "name": "Reflective Hoodie",
+    "description": "Reflective material for night visibility.",
+    "price": 79.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file52.jpg",
+    "stock": 70
+  },
+  {
+    "name": "Hoodie with Fringe",
+    "description": "Fringe details for a boho look.",
+    "price": 64.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file53.jpg",
+    "stock": 65
+  },
+  {
+    "name": "Hoodie with Metal Accents",
+    "description": "Metallic accents for a futuristic style.",
+    "price": 89.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file54.jpg",
+    "stock": 50
+  },
+  {
+    "name": "Hoodie with Cowl Neck",
+    "description": "Cowl neck design for extra warmth.",
+    "price": 74.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file55.jpg",
+    "stock": 60
+  },
+  {
+    "name": "Hoodie with Belt",
+    "description": "Adjustable belt for a tailored fit.",
+    "price": 69.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file56.jpg",
+    "stock": 75
+  },
+  {
+    "name": "Color Block Hoodie",
+    "description": "Bold color blocks for a striking look.",
+    "price": 59.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file57.jpg",
+    "stock": 80
+  },
+  {
+    "name": "Hoodie with Puff Sleeves",
+    "description": "Puff sleeves for a feminine touch.",
+    "price": 64.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file58.jpg",
+    "stock": 70
+  },
+  {
+    "name": "Hoodie with Ruffles",
+    "description": "Ruffle details for added elegance.",
+    "price": 69.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file59.jpg",
+    "stock": 65
+  },
+  {
+    "name": "Hoodie with Tassels",
+    "description": "Fun tassel details on the hood.",
+    "price": 54.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file60.jpg",
+    "stock": 90
+  },
+  {
+    "name": "Space-Dye Hoodie",
+    "description": "Unique space-dye fabric for a textured look.",
+    "price": 59.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file61.jpg",
+    "stock": 85
+  },
+  {
+    "name": "Hoodie with Side Slits",
+    "description": "Side slits for ease of movement.",
+    "price": 64.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file62.jpg",
+    "stock": 75
+  },
+  {
+    "name": "Hoodie with Satin Lining",
+    "description": "Smooth satin lining for luxury feel.",
+    "price": 84.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file63.jpg",
+    "stock": 55
+  },
+  {
+    "name": "Hoodie with Lettering",
+    "description": "Bold lettering to make a statement.",
+    "price": 59.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file64.jpg",
+    "stock": 80
+  },
+  {
+    "name": "Waffle Knit Hoodie",
+    "description": "Textured waffle knit fabric.",
+    "price": 54.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file65.jpg",
+    "stock": 90
+  },
+  {
+    "name": "Hoodie with Zipper Details",
+    "description": "Decorative zippers for added style.",
+    "price": 69.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file66.jpg",
+    "stock": 70
+  },
+  {
+    "name": "Sherpa Hoodie",
+    "description": "Ultra-soft Sherpa lining.",
+    "price": 79.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file67.jpg",
+    "stock": 60
+  },
+  {
+    "name": "Hoodie with High Collar",
+    "description": "High collar design for extra warmth.",
+    "price": 74.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file68.jpg",
+    "stock": 65
+  },
+  {
+    "name": "Distressed Hoodie",
+    "description": "Distressed details for a rugged look.",
+    "price": 59.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file69.jpg",
+    "stock": 75
+  },
+  {
+    "name": "Hoodie with Knit Sleeves",
+    "description": "Combination of fabrics for style.",
+    "price": 69.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file70.jpg",
+    "stock": 70
+  },
+  {
+    "name": "Hoodie with Embossed Logo",
+    "description": "Embossed logo for subtle branding.",
+    "price": 64.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file71.jpg",
+    "stock": 80
+  },
+  {
+    "name": "Hoodie with Plaid Lining",
+    "description": "Plaid lining adds a classic touch.",
+    "price": 74.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file72.jpg",
+    "stock": 60
+  },
+  {
+    "name": "Hoodie with Beaded Details",
+    "description": "Beaded embellishments for flair.",
+    "price": 84.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file73.jpg",
+    "stock": 55
+  },
+  {
+    "name": "Hoodie with Cut-Outs",
+    "description": "Stylish cut-outs for a modern edge.",
+    "price": 69.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file74.jpg",
+    "stock": 75
+  },
+  {
+    "name": "Hoodie with Adjustable Hem",
+    "description": "Drawstring hem for a custom fit.",
+    "price": 59.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file75.jpg",
+    "stock": 85
+  },
+  {
+    "name": "Hoodie with Floral Print",
+    "description": "Delicate floral prints for a feminine touch.",
+    "price": 64.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file76.jpg",
+    "stock": 70
+  },
+  {
+    "name": "Hoodie with Hood Ornament",
+    "description": "Unique ornament on the hood.",
+    "price": 74.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file77.jpg",
+    "stock": 60
+  },
+  {
+    "name": "Hoodie with Lace Detail",
+    "description": "Lace accents for elegance.",
+    "price": 69.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file78.jpg",
+    "stock": 65
+  },
+  {
+    "name": "Hoodie with Paint Splatter",
+    "description": "Artistic paint splatter design.",
+    "price": 59.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file79.jpg",
+    "stock": 80
+  },
+  {
+    "name": "Hoodie with Side Buttons",
+    "description": "Functional side buttons for style.",
+    "price": 64.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file80.jpg",
+    "stock": 75
+  },
+  {
+    "name": "Hoodie with Geometric Print",
+    "description": "Modern geometric patterns.",
+    "price": 69.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file81.jpg",
+    "stock": 70
+  },
+  {
+    "name": "Hoodie with Faux Leather",
+    "description": "Faux leather details for an edgy look.",
+    "price": 79.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file82.jpg",
+    "stock": 55
+  },
+  {
+    "name": "Hoodie with Studs",
+    "description": "Studded details for rockstar style.",
+    "price": 84.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file83.jpg",
+    "stock": 50
+  },
+  {
+    "name": "Hoodie with Contrast Stitching",
+    "description": "Contrast stitching adds detail.",
+    "price": 59.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file84.jpg",
+    "stock": 80
+  },
+  {
+    "name": "Hoodie with Bell Sleeves",
+    "description": "Bell sleeves for a retro vibe.",
+    "price": 69.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file85.jpg",
+    "stock": 65
+  },
+  {
+    "name": "Hoodie with Mesh Panels",
+    "description": "Mesh panels for breathability.",
+    "price": 64.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file86.jpg",
+    "stock": 75
+  },
+  {
+    "name": "Hoodie with Ribbed Texture",
+    "description": "Ribbed fabric for a cozy feel.",
+    "price": 54.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file87.jpg",
+    "stock": 90
+  },
+  {
+    "name": "Hoodie with Gradient Color",
+    "description": "Gradient colors for a stylish effect.",
+    "price": 74.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file88.jpg",
+    "stock": 60
+  },
+  {
+    "name": "Hoodie with Side Stripes",
+    "description": "Athletic side stripes.",
+    "price": 59.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file89.jpg",
+    "stock": 85
+  },
+  {
+    "name": "Hoodie with Lace-Up Back",
+    "description": "Lace-up design on the back.",
+    "price": 69.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file90.jpg",
+    "stock": 70
+  },
+  {
+    "name": "Hoodie with Metallic Print",
+    "description": "Metallic prints for shine.",
+    "price": 79.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file91.jpg",
+    "stock": 55
+  },
+  {
+    "name": "Hoodie with Neon Accents",
+    "description": "Neon details for a pop of color.",
+    "price": 64.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file92.jpg",
+    "stock": 75
+  },
+  {
+    "name": "Hoodie with Patches",
+    "description": "Assorted patches for a customized look.",
+    "price": 59.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file93.jpg",
+    "stock": 80
+  },
+  {
+    "name": "Hoodie with Hood Ear Details",
+    "description": "Cute ear details on the hood.",
+    "price": 54.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file94.jpg",
+    "stock": 90
+  },
+  {
+    "name": "Hoodie with Floral Embroidery",
+    "description": "Embroidered floral designs.",
+    "price": 69.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file95.jpg",
+    "stock": 65
+  },
+  {
+    "name": "Hoodie with Drawstring Waist",
+    "description": "Adjustable waist for a flattering fit.",
+    "price": 64.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file96.jpg",
+    "stock": 75
+  },
+  {
+    "name": "Hoodie with Sequin Details",
+    "description": "Sparkling sequins for glam.",
+    "price": 79.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file97.jpg",
+    "stock": 60
+  },
+  {
+    "name": "Hoodie with High-Low Hem",
+    "description": "High-low hem for a trendy silhouette.",
+    "price": 59.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file98.jpg",
+    "stock": 85
+  },
+  {
+    "name": "Hoodie with Velvet Panels",
+    "description": "Velvet accents for luxury.",
+    "price": 74.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file99.jpg",
+    "stock": 70
+  },
+  {
+    "name": "Hoodie with Colorful Zipper",
+    "description": "Bright zipper adds a pop of color.",
+    "price": 54.99,
+    "imageUrl": "http://hoodiesproject.s3.amazonaws.com/file100.jpg",
+    "stock": 90
+  }
+]

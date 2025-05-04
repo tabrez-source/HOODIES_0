@@ -13,7 +13,7 @@ public class SimpleApp {
         SpringApplication.run(SimpleApp.class, args);
     }
     
-    @GetMapping("/")
+    @GetMapping("/home")
     public String home() {
         return "<html><body>" +
                "<h1 style='color: green; text-align: center; margin-top: 100px;'>Success!</h1>" +
